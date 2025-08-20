@@ -14,3 +14,11 @@ Critérios de Aceitação
 
 - Após o usuário inserir os números e selecionar a operação de adição, o sistema deve calcular e exibir o resultado correto da soma.
 O resultado deve ser exibido em uma interface clara e legível, imediatamente após a confirmação da operação.
+
+Critérios Técnicos
+
+- Tratamento de erro para entradas inválidas (ex: letras, símbolos, campos vazios).
+
+- O sistema deve impedir a operação caso algum campo esteja vazio.
+
+- Exibição do resultado da soma em um visor ou área dedicada.
