@@ -3,3 +3,11 @@ função: Adicionar dois números.
 
 Descrição:
 Como um usuário, eu quero poder inserir dois números e uma operação de adição (+) para que a calculadora exiba a soma correta dos números.
+
+Critérios de Aceitação
+
+- O usuário precisa inserir dois números inteiros ou decimais e seleciona a operação de adição (+)
+
+
+- Se o usuário insere um valor inválido (como letras ou caracteres especiais),
+ o sistema deve exibir uma mensagem de erro informando que somente números são aceitos.
